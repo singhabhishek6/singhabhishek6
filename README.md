@@ -1,4 +1,4 @@
-<img align="center" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="rushikesh2503" />
+<img align="center" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" alt="" />
 <h1 align="center">Hi <img
     src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
     width="30px"
